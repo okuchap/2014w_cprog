@@ -6,7 +6,7 @@ int main(void)
 	int no;
 	int i=1;
 
-	printf("正の整数を入力\n");
+	printf("enter an integer\n");
 	scanf("%d",&no);
 
 	while(no>0){

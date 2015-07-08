@@ -4,7 +4,7 @@ int main(void)
 {
 	int a,b,c,min;
 	
-	printf("整数a,b,c?:");
+	printf("integer: a,b,c?:");
 	scanf("%d%d%d", &a, &b, &c);
 	
 	min = a;
